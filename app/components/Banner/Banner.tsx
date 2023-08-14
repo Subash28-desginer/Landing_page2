@@ -12,7 +12,7 @@ const Banner = () => {
                             A simple way to <br /> Experiment and Validate.
                         </h1>
                         <p className="mt-6 text-lg leading-8 text-bluegray">
-                        Testrunz is trusted by hundreds of businesses, harnessing artificial intelligence to streamline their product development processes with unmatched speed and precision. It's not just about faster innovation - it's about smarter, data-driven decision making that drives successful products.
+                        Testrunz is trusted by hundreds of businesses, harnessing artificial intelligence to streamline their product development processes with unmatched speed and precision. Its not just about faster innovation - its about smarter, data-driven decision making that drives successful products.
                         </p>
                     </div>
 
